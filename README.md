@@ -29,8 +29,24 @@ Thank You..
 
 ------ 
 
-note: I have tried to complete all exercises but unfortunately not left with enough time. 
-But i would have loved to do the Bonus exercise as well as Im very fluent with Restful services and Internationalization.
+additional note: i had a tight schedule since last friday, so could not 
+try bonus exercise. but my approach would be as below
+
+internationalization of messages in different language:
+i would externalize all messages into an external properties file.
+then for each language i would create separate filenames appended by the language code.
+this would have the necessary translation as during runtime
+the actual msg wud obtain from prop file instead of hardvoded values.
+i have extensive experience on internationalization, as in one of the past project,
+i handed language customizations for 19countries using i18N libraries.
+
+
+RESTful ApI TO EXPOSE THE SERVICE:
+i would create different endpoints for the service methods in
+this project using json format. this can be accessed directly from browser or consumed from frontend
+application. im hands on with rest services and use frequently in my currebt project.
+
+
 
 
 
